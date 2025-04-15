@@ -25,7 +25,7 @@
 - 📝 I have a strong foundation and interest in Artificial Intelligence and Machine Learning
 - 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
 - 🤓 Always learning new things and growing
-- 🎹 🎷 I am a also interested in building custom and Templated AI solutions on wisakano
+- 🎹 🎷 I am also interested in building custom and templated AI solutions
   
 # 🛠 My skills
 
