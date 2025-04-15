@@ -1,6 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Maywizy</h1>
-
+<div align="center">
+  <h1>Hi there! 👋 I'm Akano Wisdom</h1>
+  <p>AI workflow automation specialist | Data Scientist | Data Analyst | Machine Learning and Gen AI Engineer</p>
+  
+  <p>
+    <a href="https://substack.com/@wisdomakano" target="_blank">
+      <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+    </a>
+    <a href="https://www.tiktok.com/@wisakano" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/wisdomanalyst" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
