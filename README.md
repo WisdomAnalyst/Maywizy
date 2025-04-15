@@ -26,7 +26,8 @@
 - 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
 - 🤓 Always learning new things and growing
 - 🎹 🎷 I am a also interested in building custom and Templated AI solutions on wisakano
-# 🛠 My Skills
+  
+# 🛠 My skills
 
 ### 👉 Programming Languages
 <p align="left">
