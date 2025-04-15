@@ -26,7 +26,7 @@
 - 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
 - 🤓 Always learning new things and growing
 - 🎹 🎷 I am a also interested in building custom and Templated AI solutions on wisakano
-## 🛠 My Skills
+# 🛠 My Skills
 
 ### 👉 Programming Languages
 <p align="left">
@@ -65,3 +65,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
 </p>
 
+## 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WisdomAnalyst&show_icons=true&theme=radical" alt="WisdomAnalyst's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisdomAnalyst&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <i>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</p>
