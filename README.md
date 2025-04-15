@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maywizy</h1>
 <div align="center">
-  <h1>Hi there! 👋 I'm Akano Wisdom</h1>
   <p>AI workflow automation specialist | Data Scientist | Data Analyst | Machine Learning and Gen AI Engineer</p>
   
   <p>
