@@ -64,6 +64,7 @@
 <p align="left">
   <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="70" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
 </p>
 
 ## 📊 Github Stats
