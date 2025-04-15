@@ -1,5 +1,4 @@
-# Maywizy
-I work from home 
+
 <h1 align="center">Hi 👋, I'm Maywizy</h1>
 
 <p align="center">
