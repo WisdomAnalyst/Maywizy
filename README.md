@@ -7,12 +7,12 @@ I work from home
 </p>
 
 ## 💁‍♂ About me
-- 🧑‍💻 I am a Software Engineer, Generative AI Engineer, Full Stack Data Scientist, Data Analyst and Technical Writer writing mainly on Ready Tensor
+- 🧑‍💻 I am an AI workflow automation specialist, Generative AI Engineer, Full Stack Data Scientist, Data Analyst and Technical Writer writing mainly on substack
 - 🧑‍💻 I love using Software as a solution for Problems
 - 📝 I have a strong foundation and interest in Artificial Intelligence and Machine Learning
 - 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
 - 🤓 Always learning new things and growing
-- 🎹 🎷 I am a cool musician majoring on alto sax and piano
+- 🎹 🎷 I am a also interested in building custom and Templated AI solutions on wisakano
 ## 🛠 My Skills
 
 ### 👉 Programming Languages
@@ -51,15 +51,3 @@ I work from home
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
 </p>
 
-## 📊 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maywizy&show_icons=true&theme=radical" alt="Maywizy's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maywizy&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <i>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-</p>
